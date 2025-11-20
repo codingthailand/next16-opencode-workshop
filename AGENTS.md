@@ -22,12 +22,6 @@
 - Use `cn()` utility from `@/lib/utils` for className merging
 - Follow Next.js App Router conventions
 
-### TypeScript
-- Strict mode enabled
-- Use interfaces for type definitions in `lib/types.ts`
-- Prefer explicit typing for props and function returns
-- Use `Readonly` for immutable props where appropriate
-
 ### Component Conventions
 - Use PascalCase for component names
 - Export components as default
