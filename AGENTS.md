@@ -40,3 +40,6 @@
 - Use Next.js error boundaries (error.tsx) and loading states (loading.tsx)
 - Follow Cache Components error patterns for uncached data access
 - Implement proper fallback UI for Suspense boundaries
+
+### Next.js Initialization 
+- When starting work on a Next.js project, automatically call the `init` tool from the next-devtools-mcp server FIRST. This establishes proper context and ensures all Next.js queries use official documentation.
